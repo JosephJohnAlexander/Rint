@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-
-for i ; do
-    ffbounds "$i"
-    fontismono "$i"
-done
